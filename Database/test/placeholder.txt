@@ -1,0 +1,3 @@
+This folder contains the test images for training the DL model
+
+Please delete this file before executing the Preprocessing.py code 
